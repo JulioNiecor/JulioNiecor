@@ -1,4 +1,4 @@
-## Hola, soy Julio ✨
+# Hola, soy Julio ✨
 
 🖥️ Desarrollador Front-end</br>
 🎨 Diseño de aplicaciones y páginas web</br>
